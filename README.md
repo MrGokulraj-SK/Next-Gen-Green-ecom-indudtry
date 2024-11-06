@@ -1,14 +1,15 @@
 # NextGenGreen
-![Homepage](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/5b36a5aa-c2dd-44fe-a122-1df9840f54cb)
 
-![crps](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/b8aa149e-307e-42ef-90b5-016ca5d0491e)
+![Homepage](https://github.com/user-attachments/assets/2dc1fb89-7489-48a0-8b5f-ef97dc67e0f8)
 
-![contact us](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/55713cec-9684-49ec-97d5-8aabef3d4e44)
+![crps](https://github.com/user-attachments/assets/69299261-c2e8-4363-9bb8-2a6efa96b4d8)
 
-![loginpage](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/fce30fe1-af10-4fd3-a963-f5f9baf1a425)
+![contact us](https://github.com/user-attachments/assets/5b4483a0-a202-4c77-8915-9e79e7eca2b5)
 
-![register page](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/36cf3f40-83fd-4b6e-b3ab-dc3784a8eebd)
+![loginpage](https://github.com/user-attachments/assets/aa2b5631-39aa-44dc-930d-e690f580e4af)
 
-![cartpage](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/c6a37d30-934d-433c-b9a4-b8e2704a0242)
+![register page](https://github.com/user-attachments/assets/c4062718-8fde-4945-ad2f-df9a96a7f291)
 
-![sell page](https://github.com/MrArunkumar-G/NextGenGreen/assets/131865679/a7bc274f-a9ce-4f86-afe9-660e93b88de9)
+![cartpage](https://github.com/user-attachments/assets/cba48483-0992-4b5f-a311-b7d922f6c20f)
+
+![sell page](https://github.com/user-attachments/assets/ba94fd17-d224-4de9-94b1-c58bbd252aed)
